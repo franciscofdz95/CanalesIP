@@ -8,48 +8,18 @@ http://199.66.92.41:8080/DEPORTES-ESPN_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes",ESPN sur2
 http://199.66.92.41:8080/DEPORTES-ESPN_2_SUR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="Deportes",ESPN3
-http://ultraplay.org:80/DANIEL13W/2019XTR/190
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX Sport
-http://ultraplay.org:80/DANIEL13W/2019XTR/206
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX Sport
-http://ultraplay.org:80/DANIEL13W/2019XTR/208
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX Sport
-http://ultraplay.org:80/DANIEL13W/2019XTR/210
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="Deportes",FOX Sport
-http://ultraplay.org:80/DANIEL13W/2019XTR/66495
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="Deportes",Directv
-http://ultraplay.org:80/DANIEL13W/2019XTR/66500
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="Deportes",Directv
 http://199.66.92.41:8080/DEPORTES-DIRECTV_SPORTS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpdDoi6333g/XztJbgqczdI/AAAAAAAABGI/PU-MILA4H2YsZT2K3TGhjgshK1Dx1qdrwCLcBGAsYHQ/w200-h200/91%2BMovistar%2Bla%2Bliga%2B2.png" group-title="Deportes",LA LIGA1
-http://ultraplay.org:80/DANIEL13W/2019XTR/95863
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpdDoi6333g/XztJbgqczdI/AAAAAAAABGI/PU-MILA4H2YsZT2K3TGhjgshK1Dx1qdrwCLcBGAsYHQ/w200-h200/91%2BMovistar%2Bla%2Bliga%2B2.png" group-title="Deportes",La Liga2
 http://199.66.92.41:8080/ESPANA-BEIN_LALIGATV_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="Deportes",Claro Sports
-http://ultraplay.org:80/DANIEL13W/2019XTR/170
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes",TUDN1
-http://ultraplay.org:80/DANIEL13W/2019XTR/95821
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="Deportes",TUDN2
 http://199.66.92.41:8080/DEPORTES_HD-TUDN_OPC_2/index.m3u8
 
-#EXTINF:-1,SKY SPORTS 
-http://ultraplay.org:80/DANIEL13W/2019XTR/95865
 
-#EXTINF:-1 tvg-logo="http://simple-stream.net/uploads/tv_image/sm/tele-5-espana.jpg" group-title="Deportes",Telecinco ES
-http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+#EXTINF:-1 tvg-id="772" tvg-name="Canal Once Mexico" tvg-logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png", Canal Once Mexico  | MX
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
